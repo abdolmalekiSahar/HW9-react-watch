@@ -1,0 +1,26 @@
+
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+#clock {
+  font-size: 3.5rem;
+}
+#controller button{
+  border: none;
+  background-color: black;
+  border-radius: 25px ;
+  padding: 8px 16px;
+  margin: 5px;
+  color: white;
+  font-size: .7rem;
+
+}
+
+
